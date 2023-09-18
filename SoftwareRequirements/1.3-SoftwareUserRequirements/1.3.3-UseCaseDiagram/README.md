@@ -1,3 +1,3 @@
 ### Діаграма прецедентів програмного продукту
 
-![image](https://github.com/oleksandrblazhko/ai-216-semerenko/assets/101589038/00d5e9b7-a167-440e-b882-0e9763aa3605)
+![image](https://github.com/oleksandrblazhko/ai-216-semerenko/assets/101589038/02e7593c-2e40-4116-b8d3-4f67ff609189)
